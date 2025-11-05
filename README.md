@@ -1,9 +1,8 @@
-# Ex09 Pharmacy Website using Bootstrap
+# Ex08 Pharmacy Website using Bootstrap
 ## Date:
 
 ## AIM:
-To create a simplified clone of Dribbble (https://dribbble.com/) landing page.
-
+To design a responsive and visually appealing Pharmacy web page using Bootstrap, featuring a navigation bar, categorized product panels with images and descriptions, and a footer, ensuring easy navigation, user accessibility, and professional layout suitable for an online medical or wellness platform.
 
 ## DESIGN STEPS:
 
@@ -17,24 +16,45 @@ Create Django Admin project.
 Create a New App under the Django Admin project.
 
 ### Step 4:
-Design a navigation bar with links: Inspiration, Find Work, Learn Design, Go Pro, Sign In, Sign Up.
+Link Bootstrap CSS and JavaScript along with jQuery.
 
 ### Step 5:
-Add a catchy headline with a search bar.
+Create a navigation bar at the top of the page.
 
 ### Step 6:
-Use <div> containers for each dribbble shot thumbnail.
+Add the brand name “PharmEasy” in the navigation bar.
 
 ### Step 7:
-Include designer name and likes count below each image.
+Insert menu options for Home, Services (with dropdown), and Contact Us.
 
 ### Step 8:
-Include text like “Find your next design inspiration” with a button (“Join Dribbble” or “Explore”).
+Add options for Sign Up and Login on the right side of the navigation bar.
 
 ### Step 9:
-Create a footer with your name and register number.
+Include a search box with a submit button inside the navigation bar.
 
-### Step 6:
+### Step 10:
+Create the main content area centered on the page.
+
+### Step 11:
+Divide the page content into two rows.
+
+### Step 12:
+In the first row, place three panels for Pain Relief, Vitamins & Supplements, and Baby Care.
+
+### Step 13:
+In the second row, place three panels for Skin Care, Fitness Essentials, and Home Health Care.
+
+### Step 14:
+Add images inside each panel representing the respective category.
+
+### Step 15:
+Provide short descriptions under each image as panel footers.
+
+### Step 16:
+Add a footer at the bottom displaying copyright information.
+
+### Step 17:
 Publish the website in the LocalHost.
 
 ## PROGRAM :
@@ -44,4 +64,4 @@ Publish the website in the LocalHost.
 
 
 ## RESULT:
-The project for responsive web design in creating a clone of dribble.com is completed successfully.
+A responsive and visually appealing Pharmacy web page using Bootstrap is designed successfully.
