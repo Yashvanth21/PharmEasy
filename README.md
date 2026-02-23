@@ -1,7 +1,7 @@
 # Ex08 Pharmacy Website using Bootstrap
-## Date:10/02/2026
-## Name:Nithish D M
-## Reg no:212224235001
+## Date:23/02/2026
+## Name:yashvanth k
+## Reg no:212224245003
 
 ## AIM:
 To design a responsive and visually appealing Pharmacy web page using Bootstrap, featuring a navigation bar, categorized product panels with images and descriptions, and a footer, ensuring easy navigation, user accessibility, and professional layout suitable for an online medical or wellness platform.
